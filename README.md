@@ -36,5 +36,5 @@ Build a decision tree classifier to predict whether a customer will purchase a p
 
 ---
 
-✅ Internship Task for **Prodigy InfoTech – Data Science Track**
+✅ Internship Task for **Prodigy InfoTech – Data Science Track .
 
